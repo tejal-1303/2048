@@ -7,4 +7,4 @@ Various OOPs concepts were implemented to allow the user to undo their moves, al
 
 File handling was also used to allow the user to view their highest scores, and they were also provided the functionality of resetting the leader board.
 
-Attatched in the source files is a ppt explaining the workingof the project.
+Attatched in the source files is a ppt explaining the working of the project.
